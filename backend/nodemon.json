@@ -1,0 +1,8 @@
+{
+    "env":{
+        "DB_USER":"jannath",
+        "DB_PASSWORD":"VrL6yaKs8wHQ5anO",
+        "DB_NAME":"Places",
+        "JWT_KEY":"supersecret_dont_share"
+    }
+}
